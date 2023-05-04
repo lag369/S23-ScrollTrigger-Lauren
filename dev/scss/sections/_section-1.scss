@@ -1,7 +1,13 @@
 #section-1{
-    background-color: var(--aqua);
+	background-color: var(--lavender);
+	color: var(--bluegray);
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    
+    p{
+        margin: 8px;
+        font-size: 15pt;
+    }
 }
