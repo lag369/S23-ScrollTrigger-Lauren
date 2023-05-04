@@ -5,8 +5,17 @@
     display: flex;
     justify-content: center;
     align-items: center;
+
+    padding-left: 20%;
+    padding-right: 20%;
+
+    h1{
+        text-align: right;
+    }
+
     
     p{
+        padding-left: 15%;
         margin: 8px;
         font-size: 15pt;
     }

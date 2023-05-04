@@ -412,8 +412,14 @@ textarea {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+#section-1 h1 {
+  text-align: right;
 }
 #section-1 p {
+  padding-left: 15%;
   margin: 8px;
   font-size: 15pt;
 }
@@ -441,4 +447,13 @@ textarea {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+#section-3 p {
+  text-align: right;
+}
+#section-3 h1 {
+  padding-left: 15%;
+  padding-right: 15%;
 }
